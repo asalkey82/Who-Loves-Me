@@ -9,7 +9,7 @@
     },
     "com.meta.xr.sdk.interaction": {
       "version": "62.0.0",
-      "depth": 1,
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.textmeshpro": "3.0.6",
