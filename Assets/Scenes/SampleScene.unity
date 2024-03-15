@@ -1318,7 +1318,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 928e1430c8b0972428d880be93450038, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToLoad: Park
+  sceneToLoad: CarRide
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
