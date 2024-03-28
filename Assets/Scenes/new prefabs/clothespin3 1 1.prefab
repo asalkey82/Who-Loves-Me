@@ -1,0 +1,260 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4016283783879196506
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4016283783879196507}
+  m_Layer: 0
+  m_Name: clothespin3 1 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4016283783879196507
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4016283783879196506}
+  m_LocalRotation: {x: 0.5543222, y: 0.45677972, z: 0.50295407, w: 0.48074567}
+  m_LocalPosition: {x: -67.94004, y: 20.028093, z: -2.4457037}
+  m_LocalScale: {x: 0.058581095, y: 0.058581095, z: 0.058581095}
+  m_Children:
+  - {fileID: 4016283782949279728}
+  - {fileID: 4016283783204817480}
+  - {fileID: 4016283782069239096}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &7368059804852330111
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4016283783879196507}
+    m_Modifications:
+    - target: {fileID: 5907649074766238775, guid: b7c90663988b04444a5b2bc16c684ad8,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5907649074766238775, guid: b7c90663988b04444a5b2bc16c684ad8,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.9121344
+      objectReference: {fileID: 0}
+    - target: {fileID: 5907649074766238775, guid: b7c90663988b04444a5b2bc16c684ad8,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -15.007105
+      objectReference: {fileID: 0}
+    - target: {fileID: 5907649074766238775, guid: b7c90663988b04444a5b2bc16c684ad8,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.5163509
+      objectReference: {fileID: 0}
+    - target: {fileID: 5907649074766238775, guid: b7c90663988b04444a5b2bc16c684ad8,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5907649074766238775, guid: b7c90663988b04444a5b2bc16c684ad8,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5907649074766238775, guid: b7c90663988b04444a5b2bc16c684ad8,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5907649074766238775, guid: b7c90663988b04444a5b2bc16c684ad8,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5907649074766238775, guid: b7c90663988b04444a5b2bc16c684ad8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5907649074766238775, guid: b7c90663988b04444a5b2bc16c684ad8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5907649074766238775, guid: b7c90663988b04444a5b2bc16c684ad8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5907649074766238776, guid: b7c90663988b04444a5b2bc16c684ad8,
+        type: 3}
+      propertyPath: m_Name
+      value: clothespin_part1 7
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b7c90663988b04444a5b2bc16c684ad8, type: 3}
+--- !u!4 &4016283783204817480 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5907649074766238775, guid: b7c90663988b04444a5b2bc16c684ad8,
+    type: 3}
+  m_PrefabInstance: {fileID: 7368059804852330111}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7629076488317067826
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4016283783879196507}
+    m_Modifications:
+    - target: {fileID: 6801377130479809986, guid: 260ebe064389e7242a3d5631d52ed3f0,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6801377130479809986, guid: 260ebe064389e7242a3d5631d52ed3f0,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 69.067085
+      objectReference: {fileID: 0}
+    - target: {fileID: 6801377130479809986, guid: 260ebe064389e7242a3d5631d52ed3f0,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.17911695
+      objectReference: {fileID: 0}
+    - target: {fileID: 6801377130479809986, guid: 260ebe064389e7242a3d5631d52ed3f0,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.5163509
+      objectReference: {fileID: 0}
+    - target: {fileID: 6801377130479809986, guid: 260ebe064389e7242a3d5631d52ed3f0,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6801377130479809986, guid: 260ebe064389e7242a3d5631d52ed3f0,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6801377130479809986, guid: 260ebe064389e7242a3d5631d52ed3f0,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6801377130479809986, guid: 260ebe064389e7242a3d5631d52ed3f0,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6801377130479809986, guid: 260ebe064389e7242a3d5631d52ed3f0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6801377130479809986, guid: 260ebe064389e7242a3d5631d52ed3f0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6801377130479809986, guid: 260ebe064389e7242a3d5631d52ed3f0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6801377130479810045, guid: 260ebe064389e7242a3d5631d52ed3f0,
+        type: 3}
+      propertyPath: m_Name
+      value: clothespin_metal_part1 7
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 260ebe064389e7242a3d5631d52ed3f0, type: 3}
+--- !u!4 &4016283782949279728 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6801377130479809986, guid: 260ebe064389e7242a3d5631d52ed3f0,
+    type: 3}
+  m_PrefabInstance: {fileID: 7629076488317067826}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8262850050229439355
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4016283783879196507}
+    m_Modifications:
+    - target: {fileID: 4978516656437900867, guid: a8eba4ee2e2476347b5ebb569e02a504,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4978516656437900867, guid: a8eba4ee2e2476347b5ebb569e02a504,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 69.059715
+      objectReference: {fileID: 0}
+    - target: {fileID: 4978516656437900867, guid: a8eba4ee2e2476347b5ebb569e02a504,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.1539407
+      objectReference: {fileID: 0}
+    - target: {fileID: 4978516656437900867, guid: a8eba4ee2e2476347b5ebb569e02a504,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.5163509
+      objectReference: {fileID: 0}
+    - target: {fileID: 4978516656437900867, guid: a8eba4ee2e2476347b5ebb569e02a504,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9947619
+      objectReference: {fileID: 0}
+    - target: {fileID: 4978516656437900867, guid: a8eba4ee2e2476347b5ebb569e02a504,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4978516656437900867, guid: a8eba4ee2e2476347b5ebb569e02a504,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4978516656437900867, guid: a8eba4ee2e2476347b5ebb569e02a504,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.102219746
+      objectReference: {fileID: 0}
+    - target: {fileID: 4978516656437900867, guid: a8eba4ee2e2476347b5ebb569e02a504,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4978516656437900867, guid: a8eba4ee2e2476347b5ebb569e02a504,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4978516656437900867, guid: a8eba4ee2e2476347b5ebb569e02a504,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4978516656437900876, guid: a8eba4ee2e2476347b5ebb569e02a504,
+        type: 3}
+      propertyPath: m_Name
+      value: clothespin_part2 7
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a8eba4ee2e2476347b5ebb569e02a504, type: 3}
+--- !u!4 &4016283782069239096 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4978516656437900867, guid: a8eba4ee2e2476347b5ebb569e02a504,
+    type: 3}
+  m_PrefabInstance: {fileID: 8262850050229439355}
+  m_PrefabAsset: {fileID: 0}
